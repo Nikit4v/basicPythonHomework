@@ -1,0 +1,1 @@
+j=input;s=set;o=list;l=[{"n":j(),"p": j(),"c":j(),"u":j()}for m in range(int(j()))];print({"n": o(s([i["n"]for i in l])),"p":o(s([i["p"]for i in l])),"c":o(s([i["c"]for i in l])),"u":o(s([i["u"]for i in l]))})
