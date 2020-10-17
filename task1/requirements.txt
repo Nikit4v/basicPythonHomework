@@ -1,0 +1,7 @@
+pyopengl
+pygame
+glfw
+termcolor
+pillow
+numpy
+pyrr
